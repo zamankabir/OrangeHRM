@@ -1,4 +1,4 @@
-@smokeTest @regressionTest
+@smokeTest @regressionTest@jenkinsTest
 Feature:  Verify login OrangeHRM website
 Scenario: User able to successfully login to OrangeHRM site
 Given user go to orangeHRM home page
